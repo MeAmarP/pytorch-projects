@@ -47,5 +47,4 @@ class ConCracksData:
 
 
 if __name__ == '__main__':
-    print(f"Loading Dataset from {PATH_TO_DATASET}")
-    print(dataset)
+    print(fo.list_datasets())
